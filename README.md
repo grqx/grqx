@@ -1,3 +1,4 @@
+@Deprecated
 - 👋 Hi, I’m @grqx
 <!---
 - 👀 I’m interested in (iDunno)
@@ -6,9 +7,11 @@
 - 📫 How to reach me (aeroplane)
 - 😄 Pronouns: (somebody)
 --->
+<!--
 - ⚡ Fun fact: originally known as [zenithwzj](https://github.com/zenithwzj), but my account got hacked and someone uploaded some cracked software to my account so that it is now down and i cant take that username again for no reason i want it back.
 - Something else: I learnt C++(But not as an object-oriented programming language at all! That's even worse than C99🤣). I also know I bit Python, a little bit C++(object-oriented), a little bit Java, a little bit JavaScript, a little bit CSS(does that count?).
 - cpp>py>sh>cmd
+-->
 ~~~cpp
 import std;
 ~~~
